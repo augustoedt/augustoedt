@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I`m Augusto a web/mobile developer from Brazil, São Paulo. Currently building web-apps with typescript/golang/rust and mobile-apps with flutter/kotlin.
+I`m actually more a typescripter developer.
+
+
 ![Augusto Eduardo's Github stats](https://github-readme-stats-git-master-augustoedt123.vercel.app/api?username=augustoedt123&theme=monokai&show_icons=true&count_private=true&hide=prs,issues,contribs)
 <!--
 **augustoedt123/augustoedt123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
