@@ -6,6 +6,8 @@
 
 
 ![Augusto Eduardo's Github stats](https://github-readme-stats-git-master-augustoedt123.vercel.app/api?username=augustoedt&theme=monokai&show_icons=true&count_private=true&hide=prs,issues,contribs)
+[![Top Langs](https://github-readme-stats-git-master-augustoedt123.vercel.app/api/top-langs/?username=augustoedt&theme=github_dark&hide_border=true&layout=compact)](https://github.com/pachacamac)
+
 <!--
 **augustoedt123/augustoedt123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
