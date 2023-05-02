@@ -5,7 +5,7 @@
 - I'm actually more a typescripter developer.
 
 - 🔭 I’m currently working with with typescript/node and flutter/dart
-- 🌱 I’m currently learning Rust and Elixir
+- 🌱 I’m currently learning Rust, Elixir and ML
 
 
 ![Augusto Eduardo's Github stats](https://github-readme-stats-git-master-augustoedt123.vercel.app/api?username=augustoedt&theme=monokai&show_icons=true&count_private=true&hide=prs,issues,contribs)
