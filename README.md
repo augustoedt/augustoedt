@@ -1,8 +1,11 @@
 ### Hi there 👋
 
-- I'm Augusto a web/mobile developer from Brazil, São Paulo. Currently building web-apps with typescript/golang/rust and mobile-apps with flutter/kotlin.
+- I'm Augusto a web/mobile developer from Brazil, São Paulo. Currently building web-apps with typescript/node and mobile-apps with flutter/dart. Python scripter and casual goland programmer.
 
 - I'm actually more a typescripter developer.
+
+- 🔭 I’m currently working with with typescript/node and flutter/dart
+- 🌱 I’m currently learning Rust and Elixir
 
 
 ![Augusto Eduardo's Github stats](https://github-readme-stats-git-master-augustoedt123.vercel.app/api?username=augustoedt&theme=monokai&show_icons=true&count_private=true&hide=prs,issues,contribs)
