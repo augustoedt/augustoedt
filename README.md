@@ -2,7 +2,7 @@
 
 - I'm Augusto a web/mobile developer from Brazil, São Paulo. Currently building web-apps with typescript/node and mobile-apps with flutter/dart. Python scripter and casual goland programmer.
 
-- I'm actually more a typescripter developer.
+- Mostly typescript developer now.
 
 - 🔭 I’m currently working with with typescript/node and flutter/dart
 - 🌱 I’m currently learning Rust, Elixir and ML
