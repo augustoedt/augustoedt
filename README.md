@@ -4,7 +4,7 @@
 
 - Mostly typescript developer now.
 
-- 🔭 I’m currently working with with typescript/node and flutter/dart
+- 🔭 I’m currently working with with typescript/node and flutter/dart. For web development, I utilize frontend frameworks such as Next.js and Svelte.
 - 🌱 Learning Rust, Elixir and ML
 
 
