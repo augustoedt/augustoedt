@@ -9,7 +9,7 @@
 
 #### About Me
 
-- An avid reader of Chinese and Korean novels, with my favorite genre being Wuxia.
+- An avid reader of Chinese and Korean novels, my favorite genre it's Wuxia.
 
 ![Augusto Eduardo's Github stats](https://github-readme-stats-git-master-augustoedt123.vercel.app/api?username=augustoedt&theme=monokai&show_icons=true&count_private=true&hide=prs,issues,contribs)
 [![Top Langs](https://github-readme-stats-git-master-augustoedt123.vercel.app/api/top-langs/?username=augustoedt&theme=github_dark&hide_border=true&layout=compact)](https://github.com/pachacamac)
