@@ -4,9 +4,9 @@
 
 - Mostly typescript developer now.
 
-- 🔭 I’m currently working with with typescript/node and flutter/dart. For web development, I utilize frontend frameworks such as Next.js and Svelte.
+- 🔭 I previously worked with flutter/dart on mobile/desktop apps. Now working with full-stack web development on frontend with frameworks such as Next.js and Svelte and backend mostly node/bun
 - 🌱 Learning Rust, Elixir and ML
-- Tech I like: Typescript, Svelte, Bun, tRPC, drizzle, Rust, Elixir, Go, Flutter, Python.
+- Tech I like: Typescript, Svelte, Bun, drizzle, Rust, Elixir, Go, Flutter, Python.
 
 
 ![Augusto Eduardo's Github stats](https://github-readme-stats-git-master-augustoedt123.vercel.app/api?username=augustoedt&theme=monokai&show_icons=true&count_private=true&hide=prs,issues,contribs)
